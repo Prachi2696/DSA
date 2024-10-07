@@ -11,7 +11,7 @@ public class BubbleSort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int arr[]= {2,1,4,3,9,6};
+		int arr[]= {2,1,4,3,9,6,12345,178};
 		
 		//time complexity= n^2
 		for (int i=0;i<arr.length-1;i++)
