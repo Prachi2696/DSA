@@ -11,7 +11,7 @@ public class InsertionSort {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int arr[]= {2,1,4,3,9,6,1,1,1,1};
+		int arr[]= {2,1,4,3,9,6,1,1,1,1,2,2,2};
 		
 		//time complexity= n^2
 	
